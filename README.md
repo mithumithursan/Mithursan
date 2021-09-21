@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 ![nice-watercolor-background_24837-261](https://user-images.githubusercontent.com/91019061/133962560-fbb4d289-2956-41c1-92fd-79abb2587b98.jpg)
-![Uploading nice-watercolor-background_24837-261 copy.jpg…]()
+![nice-watercolor-background_24837-261 copy](https://user-images.githubusercontent.com/91019061/134110917-3f922cfb-5a94-4ae1-95ed-0d04dc05bee1.jpg)
+
 I’m Vipul Konar, and I am 7 years old.
 I study at Delhi Public School in the fourth standard.
 My father’s name is Mr. Adhitya Konar, and my mother’s name is Mrs. Alar Konar.
