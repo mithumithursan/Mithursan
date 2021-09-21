@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 ![nice-watercolor-background_24837-261](https://user-images.githubusercontent.com/91019061/133962560-fbb4d289-2956-41c1-92fd-79abb2587b98.jpg)
 ![nice-watercolor-background_24837-261 copy](https://user-images.githubusercontent.com/91019061/134110917-3f922cfb-5a94-4ae1-95ed-0d04dc05bee1.jpg)
+![DNA-Genetics](https://user-images.githubusercontent.com/91019061/134139679-c182f74c-01f1-436e-b953-e44516b7ab2a.gif)
 
 I’m Vipul Konar, and I am 7 years old.
 I study at Delhi Public School in the fourth standard.
